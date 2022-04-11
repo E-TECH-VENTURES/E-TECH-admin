@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://laraadmin.com/img/laraadmin-256.png">
+  <img src="http://E-TECHadmin.com/img/E-TECHadmin-256.png">
   <h1 align="center" style="margin-top:5px;">LaraAdmin 1.0</h1>
 </p>
 
@@ -10,7 +10,7 @@
 [![License](https://poser.pugx.org/dwij/laraadmin/license.svg)](https://packagist.org/packages/dwij/laraadmin)
 [![Code Triagers Badge](https://www.codetriage.com/dwijitsolutions/laraadmin/badges/users.svg)](https://www.codetriage.com/dwijitsolutions/laraadmin)
 
-LaraAdmin is a Open source CRM for quick-start Admin based applications with features like Advanced CRUD Generation, Schema Manager and Workflows.
+E-TECH Admin is a Open source CRM for quick-start Admin based applications with features like Advanced CRUD Generation, Schema Manager and Workflows.
 ##### Website: [laraadmin.com](http://laraadmin.com)
 ##### Creator: [@gdbhosale](https://github.com/gdbhosale), [Dwij IT Solutions](https://github.com/dwijitsolutions)
 --------
