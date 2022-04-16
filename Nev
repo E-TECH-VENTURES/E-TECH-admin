@@ -1,0 +1,851 @@
+<!doctype html>
+<html lang="zxx">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      
+      
+       <title>Nevio Investment </title>
+      <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+      <link rel="stylesheet" href="assets/css/animate.min.css">
+      <link rel="stylesheet" href="assets/css/meanmenu.css">
+      <link rel="stylesheet" href="assets/css/boxicons.min.css">
+      <link rel="stylesheet" href="assets/css/flaticon.css">
+      <link rel="stylesheet" href="assets/css/odometer.min.css">
+      <link rel="stylesheet" href="assets/css/slick.min.css">
+      <link rel="stylesheet" href="assets/css/nice-select.min.css">
+      <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+      <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+      <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+      <link rel="stylesheet" href="assets/css/fancybox.min.css">
+      <link rel="stylesheet" href="assets/css/style.css">
+      <link rel="stylesheet" href="assets/css/responsive.css">
+      <title>Nevio Investment</title>
+      <link rel="icon" type="image/png" href="assets/images/favicon.png">
+      
+      
+      <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="c4c1df85-4c82-4ae4-b315-15dd901b1531";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+      
+      
+<script type="text/javascript">
+function googleTranslateElementInit () {
+  new google.translate.TranslateElement ({pageLanguage: "en", layout:
+google.translate.TranslateElement.InlineLayout.VERTICAL},
+"google_translate_element");
+}
+</script>
+<script type="text/javascript"
+src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+</script>
+
+   </head>
+   <body>
+      <div class="preloader-area">
+         <div class="spinner">
+            <div class="inner">
+               <div class="disc"></div>
+               <div class="disc"></div>
+               <div class="disc"></div>
+            </div>
+         </div>
+      </div>
+      <header class="main-header-area">
+         <div class="header-information"></div>
+         <div class="top-header-area bg-transparent">
+            <div class="container">
+               <div class="row align-items-center">
+                  <div class="col-lg-9 col-md-12">
+                     <ul class="top-header-information">
+                        <li>
+                           <div id="google_translate_element"></div>
+                        </li>
+                        <li>
+                           <i class="flaticon-mail"></i>
+                           <a href="support@nevioinvestment.com"><span>support@nevioinvestment.com</span></a>
+                        </li>
+                        <li>
+                           <i class="flaticon-placeholder"></i>
+                          TOWER STREET, SWATAR BIRKIRKARA, Malta.
+                        </li>
+                     </ul>
+                  </div>
+                 <!-- <div class="col-lg-3 col-md-12">
+                     <ul class="top-header-optional">
+                        <li>
+                           <a href="#" target="_blank">
+                           <i class='bx bxl-facebook'></i>
+                           </a>
+                           <a href="#" target="_blank">
+                           <i class='bx bxl-twitter'></i>
+                           </a>
+                           <a href="#" target="_blank">
+                           <i class='bx bxl-pinterest-alt'></i>
+                           </a>
+                           <a href="#" target="_blank">
+                           <i class='bx bxl-instagram'></i>
+                           </a>
+                        </li>
+                     </ul>
+                  </div>-->
+               </div>
+            </div>
+         </div>
+         <div class="navbar-area p-relative-color">
+            <div class="main-responsive-nav">
+               <div class="container">
+                  <div class="main-responsive-menu">
+                     <div class="logo">
+                        <a href="?a=home">
+                        <img src="assets/images/logo.png" alt="logo">
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="main-navbar">
+               <div class="container">
+                  <nav class="navbar navbar-expand-md navbar-light">
+                     <a class="navbar-brand" href="?a=home">
+                     <img src="assets/images/logo.png" alt="logo">
+                     </a>
+                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                        <ul class="navbar-nav m-auto">
+                           <li class="nav-item">
+                              <a href="?a=home" class="nav-link active">
+                              Home
+                              </a>
+                           </li>
+                           <li class="nav-item">
+                              <a href="?a=about" class="nav-link">
+                              About Us
+                              </a>
+
+                                 </li>
+
+
+                           <li class="nav-item">
+                              <a href="?a=faq" class="nav-link">
+                              Faq
+
+                              </a>
+                           </li>
+                          <!-- <li class="nav-item">
+                              <a href="?a=paidout" class="nav-link">
+                              Paidout
+
+                              </a>
+
+                           </li>-->
+
+                         <!--
+                         <li class="nav-item">
+                              <a href="?a=news" class="nav-link">
+                              News
+
+                              </a>
+                           </li>-->
+                           <li class="nav-item">
+                              <a href="?a=support" class="nav-link">Contact</a>
+                           </li>
+                        </ul>
+                        <div class="others-options d-flex align-items-center">
+
+                                                     <div class="option-item">
+                              <div class="navbar-btn">
+                                 <a href="?a=login" class="default-btn">Login <i class="flaticon-pointer"></i></a>
+                              </div>
+                           </div>
+                           <div class="option-item">
+                              <div class="navbar-btn">
+                                 <a href="?a=signup" class="default-btn">Register <i class="flaticon-pointer"></i></a>
+                              </div>
+                           </div>
+                                                   </div>
+                     </div>
+                  </nav>
+               </div>
+            </div>
+            <div class="others-option-for-responsive">
+               <div class="container">
+                  <div class="dot-menu">
+                     <div class="inner">
+                        <b>Account</b>
+                     </div>
+                  </div>
+                  <div class="container">
+                     <div class="option-inner">
+                        <div class="others-options d-flex align-items-center">
+                                                     <div class="option-item">
+                              <div class="navbar-btn">
+                                 <a href="?a=login" class="default-btn">Login <i class="flaticon-pointer"></i></a>
+                              </div>
+                           </div>
+                           <div class="option-item">
+                              <div class="navbar-btn">
+                                 <a href="?a=signup" class="default-btn">Register <i class="flaticon-pointer"></i></a>
+                              </div>
+                           </div>
+                                                   </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </header>
+
+
+<div class="main-slides-area">
+   <div class="home-slides owl-carousel owl-theme">
+      <div class="main-slides-item">
+         <div class="container">
+            <div class="main-slides-content">
+               <h1>Earn<span>Guaranteed</span> Daily Profit</h1>
+               <p>Your Money will work for you here with full maximized profits.</p>
+               <div class="slides-btn">
+                  <a href="?a=signup" class="default-btn">Join Now <i class="flaticon-pointer"></i></a>
+                  <a href="?a=about" class="optional-btn">Our Services <i class="flaticon-repairing-service"></i></a>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="main-slides-item item-two">
+         <div class="container">
+            <div class="main-slides-content">
+               <h1>Taking<span>Trading</span> To the Next Level</h1>
+               <p>We are here to help the Investors to earn huge profit with their capital.</p>
+               <div class="slides-btn">
+                  <a href="?a=signup" class="default-btn">Join Now <i class="flaticon-pointer"></i></a>
+                  <a href="?a=about" class="optional-btn">Our Services <i class="flaticon-repairing-service"></i></a>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="main-slides-item item-three">
+         <div class="container">
+            <div class="main-slides-content">
+               <h1>Reliable<span>Cryptocurrency</span>Trading Platform</h1>
+               <p>Our Motive is to help and build our investor's capital amount with Confidence.</p>
+               <div class="slides-btn">
+                  <a href="?a=signup" class="default-btn">Join Now <i class="flaticon-pointer"></i></a>
+                  <a href="?a=about" class="optional-btn">Our Services <i class="flaticon-repairing-service"></i></a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<section class="about-area bg-ffffff ptb-100">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-lg-6">
+            <div class="about-main-content">
+               <h3>About Us</h3>
+               <div class="about-content-image">
+                  <img src="assets/images/about/about-2.jpg" alt="image">
+                  <h4 class="sub-title">Insights</h4>
+                 <!-- <a href="https://www.youtube.com/watch?v=ODfy2YIKS1M" class="video-btn popup-youtube">
+                  <i class="flaticon-play"></i>
+                  </a>-->
+               </div>
+               <p>Nevio Investment is a secure, reliable and advanced digital multi-asset financial and investment company built for international investors. Investments are made through trading funds, stocks, commodities and other digital assets using our in-house developed cutting-edge technology trading systems.
+                 
+                  </p>
+               <p> We constantly strive to build long-term, mutually beneficial relationships with quality management teams and strategic investors. Our dedicated team of investment and advisory professionals take a hands-on approach to all of our projects and transactions. We are one of Europe’s leading private investment firms. Our strategic, finance and management expertise enable us to build world class businesses either from existing brands or from the ground up.</p>
+               <div class="row">
+                  <div class="col-lg-6 col-sm-6">
+                     <div class="about-information">
+                        <i class="flaticon-trophy"></i>
+                        <h5>4122</h5>
+                        <span>Affiliate Members</span>
+                     </div>
+                  </div>
+                  <div class="col-lg-6 col-sm-6">
+                     <div class="about-information">
+                        <i class="flaticon-customer"></i>
+                        <h5>$ 8414971.30</h5>
+                        <span>Total Deposit</span>
+                     </div>
+                  </div>
+               </div>
+               <div class="about-btn">
+                  <a href="?a=about" class="default-btn">More About Us <i class="flaticon-user"></i></a>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-6">
+            <div class="about-main-image">
+               <img src="assets/images/about/about-1.jpg" alt="image">
+               <div class="about-shape about-wrap">
+                  <div class="shape-1">
+                     <img src="assets/images/about/shape-1.png" alt="image">
+                  </div>
+                  <div class="shape-2">
+                     <img src="assets/images/about/shape-2.png" alt="image">
+                  </div>
+                  <div class="shape-3">
+                     <img src="assets/images/about/shape-3.png" alt="image">
+                  </div>
+                  <div class="shape-4">
+                     <img src="assets/images/about/shape-4.png" alt="image">
+                  </div>
+                  <div class="shape-5">
+                     <img src="assets/images/about/shape-5.png" alt="image">
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!--<div class="services-area ptb-100">
+   <div class="container">
+      <div class="section-title">
+         <h2>Our <span>Live</span> Statistics</h2>
+         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      </div>
+      <div class="tab services-list-tab">
+         <ul class="tabs">
+            <li>
+               <a href="#">
+               <i class="flaticon-imagination"></i>
+               <span>Total Deposits</span>
+               </a>
+            </li>
+            <li>
+               <a href="#">
+               <i class="flaticon-extrovert"></i>
+               <span>Total Withdrawals</span>
+               </a>
+            </li>
+            <li>
+               <a href="#">
+               <i class="flaticon-anger"></i>
+               <span>Top Refetals</span>
+               </a>
+            </li>
+            <li>
+               <a href="#">
+               <i class="flaticon-bipolar"></i>
+               <span>Top Investors</span>
+               </a>
+            </li>
+         </ul>
+         <div class="tab_content">
+            <div class="tabs_item">
+               <div class="row align-items-center">
+                  <div class="col">
+                     <div class="services-tab-content">
+                       
+
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="tabs_item">
+               <div class="row align-items-center">
+                  <div class="col">
+                     
+
+                  </div>
+               </div>
+            </div>
+            <div class="tabs_item">
+               <div class="row align-items-center">
+                  <div class="col">
+                     
+                  </div>
+               </div>
+            </div>
+            <div class="tabs_item">
+               <div class="row align-items-center">
+                  <div class="col">
+                     
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="partner-area ptb-100 bg-color">
+   <div class="container">
+      <div class="partner-slides owl-carousel owl-theme">
+         <div class="single-partner">
+            <a href="about.html"><img src="assets/images/partner/1.png" alt="image"></a>
+         </div>
+         <div class="single-partner style-two">
+            <a href="about.html"><img src="assets/images/partner/2.png" alt="image"></a>
+         </div>
+         <div class="single-partner">
+            <a href="about.html"><img src="assets/images/partner/3.png" alt="image"></a>
+         </div>
+         <div class="single-partner style-two">
+            <a href="about.html"><img src="assets/images/partner/4.png" alt="image"></a>
+         </div>
+         <div class="single-partner">
+            <a href="about.html"><img src="assets/images/partner/5.png" alt="image"></a>
+         </div>
+         <div class="single-partner style-two">
+            <a href="about.html"><img src="assets/images/partner/6.png" alt="image"></a>
+         </div>
+      </div>
+   </div>
+</div>-->
+<section class="philosophy-area ptb-100">
+   <div class="container">
+      <div class="philosophy-slides owl-carousel owl-theme">
+         <div class="philosophy-item">
+            <div class="row align-items-center">
+               <div class="col-lg-6">
+                  <div class="philosophy-content">
+                     <h3>Our Unique Philosophy Guides</h3>
+                                          <h4>Sustainable Growth</h4>
+                     <p>We devise financial strategies that will meet business needs, achieve sustainable growth, and ensure business continuity.</p>
+                     <div class="philosophy-quote">
+                        <i class="flaticon-close"></i>
+                        <p>Listening to client challenges is the foundation for creating investment portfolios around you.</p>
+                     </div>
+                    <!-- <div class="philosophy-btn">
+                        <a href="https://www.youtube.com/watch?v=ODfy2YIKS1M" class="default-btn popup-youtube">Watch Video <i class="flaticon-play"></i></a>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="philosophy-image">
+                     <img src="assets/images/philosophy/philosophy-1.png" alt="image">
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="philosophy-item">
+            <div class="row align-items-center">
+               <div class="col-lg-6">
+                 <div class="philosophy-content">
+                     <h3>Our Unique Philosophy Guides</h3>
+                     <h4>Systematic equities</h4>
+                     <p>We have collective investment schemes available for qualified investors and also offer our secure investment services.</p>
+                     <div class="philosophy-quote">
+                        <i class="flaticon-close"></i>
+                        <p> Our mission is to affect positive social change.</p>
+                     </div>
+                     <!--<div class="philosophy-btn">
+                        <a href="https://www.youtube.com/watch?v=ODfy2YIKS1M" class="default-btn popup-youtube">Watch Video <i class="flaticon-play"></i></a>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="philosophy-image">
+                     <img src="assets/images/philosophy/philosophy-2.png" alt="image">
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="philosophy-item">
+            <div class="row align-items-center">
+               <div class="col-lg-6">
+                  <div class="philosophy-content">
+                     <h3>Our Unique Philosophy Guides</h3>
+                     <h4>Stability</h4>
+                     <p>Our private ownership model provides stability, allows us to focus on long-term results, aligns our interests with those of our clients.</p>
+                     <div class="philosophy-quote">
+                        <i class="flaticon-close"></i>
+                        <p>We have built investment capabilities in areas where we have proven expertise, using investment processes that we believe are both repeatable and scalable.</p>
+                     </div>
+                    <!-- <div class="philosophy-btn">
+                        <a href="https://www.youtube.com/watch?v=ODfy2YIKS1M" class="default-btn popup-youtube">Watch Video <i class="flaticon-play"></i></a>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="philosophy-image">
+                     <img src="assets/images/philosophy/philosophy-3.png" alt="image">
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="philosophy-main-shape">
+      <img src="assets/images/philosophy/line-shape.png" alt="image">
+   </div>
+</section>
+<section class="pricing-area pt-100 pb-70">
+   <div class="container">
+      <div class="section-title">
+         <h2>Choose Your Best <span>Investment Plan</span></h2>
+         <!--<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>-->
+      </div>
+      <div class="row justify-content-center">
+         <div class="col-lg-4 col-md-6">
+            <div class="single-pricing-table">
+               <div class="pricing-header">
+                  <i class="flaticon-user-1"></i>
+                  <h3>Silver</h3>
+                  <span>Daily for 4 Days</span>
+                  <div class="price">6%</div>
+               </div>
+               <ul class="pricing-features">
+                  <li><i class="flaticon-check"></i>Min Deposit $100</li>
+                  <li><i class="flaticon-check"></i>Max Deposit $999</li>
+                  <li><i class="flaticon-check"></i>Instant Withdrawals</li>
+                 <!-- <li><i class="flaticon-check"></i>Plan Duration 80h</li>-->
+                  <li><i class="flaticon-check"></i>Referral Commission: 10%</li>
+               </ul>
+               <div class="pricing-btn">
+                  <a href="?a=signup" class="default-btn">Get Started <i class="flaticon-pointer"></i></a>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6">
+            <div class="single-pricing-table">
+               <div class="pricing-header">
+                  <i class="flaticon-user-1"></i>
+                  <h3>Gold</h3>
+                  <span>Daily for 7 Days</span>
+                  <div class="price">8%</div>
+               </div>
+               <ul class="pricing-features">
+                  <li><i class="flaticon-check"></i>Min Deposit $1,000</li>
+                  <li><i class="flaticon-check"></i>Max Deposit $4,999</li>
+                  <li><i class="flaticon-check"></i>Instant Withdrawals</li>
+                <!--  <li><i class="flaticon-check"></i>Plan Duration 80h</li>-->
+                  <li><i class="flaticon-check"></i>Referral Commission: 10%</li>
+               </ul>
+               <div class="pricing-btn">
+                  <a href="?a=signup" class="default-btn">Get Started <i class="flaticon-pointer"></i></a>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6">
+            <div class="single-pricing-table">
+               <div class="pricing-header">
+                  <i class="flaticon-user-1"></i>
+                  <h3>Platinum</h3>
+                  <span>Daily for 10 Days</span>
+                  <div class="price">10%</div>
+               </div>
+               <ul class="pricing-features">
+                  <li><i class="flaticon-check"></i>Min Deposit $5,000</li>
+                  <li><i class="flaticon-check"></i>Max Deposit No Limit</li>
+                  <li><i class="flaticon-check"></i>Instant Withdrawals</li>
+                <!--  <li><i class="flaticon-check"></i>Plan Duration 80h</li>-->
+                  <li><i class="flaticon-check"></i>Referral Commission: 10%</li>
+               </ul>
+               <div class="pricing-btn">
+                  <a href="?a=signup" class="default-btn">Get Started <i class="flaticon-pointer"></i></a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="pricing-main-shape">
+      <img src="assets/images/pricing-shape.png" alt="image">
+   </div>
+</section>
+
+<section class="reviews-area ptb-100">
+   <div class="container">
+      <div class="clients-slides owl-carousel owl-theme">
+         <div class="clients-item">
+            <div class="row align-items-center">
+               <div class="col-lg-6">
+                  <div class="reviews-image">
+                     <img src="assets/images/reviews/reviews-3.jpg" alt="image">
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="item">
+                     <div class="title">
+                        <h3>Innovative Investment</h3>
+                     </div>
+                     <div class="single-feedback">
+                        <div class="icon">
+                           <i class="flaticon-close"></i>
+                        </div>
+                        <p>We offer our clients comprehensive investment solutions that are tailored to each particular client’s needs at a specific period of time.</p>
+                     </div>
+                    <!--- <div class="title-info">
+                        <h3>Sarah Doodi</h3>
+                        <span>Officer</span>
+                     </div>-->
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="clients-item">
+            <div class="row align-items-center">
+               <div class="col-lg-6">
+                  <div class="reviews-image">
+                     <img src="assets/images/reviews/reviews-1.jpg" alt="image">
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="item">
+                     <div class="title">
+                        <h3>Professional Approach</h3>
+                     </div>
+                     <div class="single-feedback">
+                        <div class="icon">
+                           <i class="flaticon-close"></i>
+                        </div>
+                        <p>we have always held ourselves to a fiduciary standard for the advice we give to our clients. We stand by our word at all time.</p>
+                     </div>
+                    <!-- <div class="title-info">
+                        <h3>Sadio Finn</h3>
+                        <span>General Director</span>
+                     </div>-->
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="clients-item">
+            <div class="row align-items-center">
+               <div class="col-lg-6">
+                  <div class="reviews-image">
+                     <img src="assets/images/reviews/reviews-2.jpg" alt="image">
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="item">
+                     <div class="title">
+                        <h3>Alignment of Interests</h3>
+                     </div>
+                     <div class="single-feedback">
+                        <div class="icon">
+                           <i class="flaticon-close"></i>
+                        </div>
+                        <p>We have the ability to tap into the knowledge, resources, capabilities and broad network of Partners to enhance our own processes.</p>
+                     </div>
+                    <!-- <div class="title-info">
+                        <h3>Tom Olivar</h3>
+                        <span>Course Researcher</span>
+                     </div>-->
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="reviews-main-shape">
+      <img src="assets/images/reviews/shape-1.png" alt="image">
+   </div>
+</section>
+<section class="fun-facts-area bg-top pt-100 pb-70">
+   <div class="container">
+      <div class="row">
+         <!--<div class="col-lg-3 col-md-6">
+            <div class="single-fun-fact">
+               <div class="icon">
+                  <i class="flaticon-trophy"></i>
+               </div>
+               <h3>
+                  <span class="odometer" data-count="4122">00</span>
+                  <span class="sign-icon"> Days</span>
+               </h3>
+               <p>Online</p>
+            </div>
+         </div>-->
+         <div class="col-lg-3 col-md-6">
+            <div class="single-fun-fact">
+               <div class="icon">
+                  <i class="flaticon-customer"></i>
+               </div>
+               <h3>
+                  <span>$ 8231901.28</span>
+                 <!-- <span class="sign-icon">Total</span>-->
+               </h3>
+               <p>Withdrawals</p>
+            </div>
+         </div>
+        <!-- <div class="col-lg-3 col-md-6">
+            <div class="single-fun-fact">
+               <div class="icon">
+                  <i class="flaticon-user"></i>
+               </div>
+               <h3>
+                  <span class="odometer">K</span>
+             <span class="sign-icon">Total </span>
+               </h3>
+               <p>Accounts</p>
+            </div>
+         </div>-->
+         <div class="col-lg-3 col-md-6">
+            <div class="single-fun-fact">
+               <div class="icon">
+                  <i class="flaticon-medal"></i>
+               </div>
+               <h3>
+                  <span>$ 8414971.30</span>
+                  <!--<span class="sign-icon">Total</span>-->
+               </h3>
+               <p>Deposits</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+
+<div class="subscribe-area bg-top">
+   <div class="container">
+      <div class="subscribe-inner-box">
+         <div class="subscribe-content">
+            <h2>Subscribe Our Newsletter</h2>
+            <p>Join us today.</p>
+            <form class="newsletter-form" data-bs-toggle="validator"><input type="hidden" name="form_id" value="16500757717235"><input type="hidden" name="form_token" value="ab466b9d25ce36152ca2dc32f76c0384">
+               <div class="row">
+                  <div class="col-lg-8 col-md-6">
+                     <input type="email" class="input-newsletter" placeholder="Enter your email" name="EMAIL" required autocomplete="off">
+                  </div>
+                  <div class="col-lg-4 col-md-6">
+                     <button type="submit">Subscribe Now <i class="flaticon-paper-plane"></i></button>
+                     <div id="validator-newsletter" class="form-result"></div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+</div>
+
+
+<footer class="footer-area bg-top pt-100 pb-70">
+<div class="container">
+<div class="row">
+<div class="col-lg-3 col-sm-6">
+<div class="single-footer-widget">
+<div class="widget-logo">
+<a href="index.html"><img src="assets/images/logo-2.png" alt="image"></a>
+</div>
+<p>We focus on acquiring new stakes, strengthening a portfolio company’s management, and increasing the value of the portfolio company’s assets. </p>
+<!--<div class="widget-share">
+<a href="#" target="_blank">
+<i class='bx bxl-facebook'></i>
+</a>
+<a href="#" target="_blank">
+<i class='bx bxl-twitter'></i>
+</a>
+<a href="#" target="_blank">
+<i class='bx bxl-instagram'></i>
+</a>
+<a href="#" target="_blank">
+<i class='bx bxl-linkedin'></i>
+</a>
+</div>-->
+</div>
+</div>
+<div class="col-lg-3 col-sm-6">
+<div class="single-footer-widget">
+<h3>Quick Links</h3>
+ <ul class="quick-links">
+<li>
+<a href="?a=home"><i class='bx bxs-right-arrow'></i> Home</a>
+</li>
+<li>
+<a href="?a=about"><i class='bx bxs-right-arrow'></i> About</a>
+</li>
+<li>
+<a href="?a=faq"><i class='bx bxs-right-arrow'></i> Faq</a>
+</li>
+<li>
+<a href="https://opencorporates.com/companies/mt/C89332"><i class='bx bxs-right-arrow'></i>Company Registration</a>
+</li>
+<li>
+<!--<a href="?a=news"><i class='bx bxs-right-arrow'></i> News</a>-->
+</li>
+<li>
+<a href="?a=support"><i class='bx bxs-right-arrow'></i> Contact</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-sm-6">
+<div class="single-footer-widget">
+<h3>Legal</h3>
+<ul class="quick-links">
+<li>
+<a href="?a=rules"><i class='bx bxs-right-arrow'></i> Terms and Conditions</a>
+</li>
+<!--<li>
+<a href="#"><i class='bx bxs-right-arrow'></i> Private Policy</a>
+</li>-->
+
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-sm-6">
+<div class="single-footer-widget">
+<h3>Contact Us</h3>
+<ul class="footer-contact-info">
+<!--<li>
+<i class='flaticon-phone-call'></i>
+<span>Phone No:</span>
+<a href="tel:9885394203">+988 5394 203</a>
+</li>
+<li>-->
+<i class='flaticon-mail'></i>
+<span>Email Address:</span>
+<a href="support@nevioinvestment.com"><span>support@nevioinvestment.com</span></a>
+</li>
+<li>
+<i class='flaticon-placeholder'></i>
+<span>Location:</span>
+TOWER STREET, SWATAR BIRKIRKARA, Malta.
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+
+<div class="copyright-area">
+<div class="container">
+<div class="copyright-area-content">
+<p>
+Copyright © 2021 Nevio Investment. All rights reserved By
+<a href="https://nevioinvestment.com" target="_blank">Nevio Investment</a>
+</p>
+</div>
+</div>
+</div>
+
+
+<div class="go-top">
+<i class='flaticon-up-arrow'></i>
+</div>
+
+
+<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
+
+<script src="assets/js/bootstrap.bundle.min.js"></script>
+
+<script src="assets/js/jquery.meanmenu.js"></script>
+
+<script src="assets/js/owl.carousel.min.js"></script>
+
+<script src="assets/js/jquery.appear.js"></script>
+
+<script src="assets/js/odometer.min.js"></script>
+
+<script src="assets/js/slick.min.js"></script>
+
+<script src="assets/js/nice-select.min.js"></script>
+
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+
+<script src="assets/js/fancybox.min.js"></script>
+
+<script src="assets/js/jquery.ajaxchimp.min.js"></script>
+
+<script src="assets/js/form-validator.min.js"></script>
+
+<script src="assets/js/contact-form-script.js"></script>
+
+<script src="assets/js/wow.min.js"></script>
+
+<script src="assets/js/main.js"></script>
+</body>
+
+</html>
+
